@@ -1,4 +1,4 @@
-export const BASE_URL = "http://localhost:5000/api/v1";
+export const BASE_URL = "https://doc-app-backend-ns5z.onrender.com";
 
 // Export a function to dynamically get the token
 export const getToken = () => {
